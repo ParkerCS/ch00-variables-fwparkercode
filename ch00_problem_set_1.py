@@ -3,7 +3,7 @@
 #PROBLEM 1 (From Math Class to Code - 2pts)
 
 # Print the answer to the math question:
-# 3(60x^2 + 3x/9) + 2x - 4/3(x) - sqrt(x)
+# 3(60x^2 + 3x/9) + 2x - 4/3(x) - sqrt(x))
 # where x = 12.83
 x = 12.83
 your_answer = "Enter the equation"
